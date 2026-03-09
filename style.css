@@ -1,44 +1,35 @@
 body{
-
 font-family: Arial;
 margin:0;
 background:#f4f6f9;
 color:#333;
-
 }
 
 header{
-
 background:#0a66c2;
 color:white;
 text-align:center;
 padding:50px;
-
 }
 
 .apps{
-
 display:flex;
 justify-content:center;
 gap:40px;
 padding:60px;
 flex-wrap:wrap;
-
 }
 
 .card{
-
 background:white;
 padding:30px;
 border-radius:10px;
 width:320px;
 box-shadow:0 5px 15px rgba(0,0,0,0.1);
 text-align:center;
-
 }
 
 .btn{
-
 display:inline-block;
 margin-top:20px;
 background:#0a66c2;
@@ -46,29 +37,22 @@ color:white;
 padding:12px 20px;
 border-radius:5px;
 text-decoration:none;
-
 }
 
 .btn:hover{
-
 background:#004182;
-
 }
 
 .content{
-
 max-width:800px;
 margin:auto;
 padding:60px;
 text-align:center;
-
 }
 
 footer{
-
 text-align:center;
 padding:20px;
 background:#222;
 color:white;
-
 }
