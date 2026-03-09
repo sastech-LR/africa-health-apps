@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sastech-LR.github.io/africa-health-apps/sitemap.xml
