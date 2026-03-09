@@ -2,16 +2,16 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://africahealthapps.vercel.app/</loc>
-</url>
+  <url>
+    <loc>https://africahealthapps.vercel.app/</loc>
+  </url>
 
-<url>
-<loc>https://africahealthapps.vercel.app/nursing-path-pro.html</loc>
-</url>
+  <url>
+    <loc>https://africahealthapps.vercel.app/nursing-path-pro.html</loc>
+  </url>
 
-<url>
-<loc>https://africahealthapps.vercel.app/rhythm-africa-pulse.html</loc>
-</url>
+  <url>
+    <loc>https://africahealthapps.vercel.app/rhythm-africa-pulse.html</loc>
+  </url>
 
 </urlset>
